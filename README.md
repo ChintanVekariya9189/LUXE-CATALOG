@@ -3,7 +3,7 @@
 A premium, responsive web application built with React and Vite that allows users to explore a diverse catalog of products across multiple categories. The application features a dynamic rendering engine that adapts the user interface based on the specific attributes of each product.
 
 ## 🚀 Live Demo
-**[Live Deployment Link](https://your-deployment-link.vercel.app)**
+**[Live Deployment Link](https://luxe-catalog.vercel.app/)**
 
 ---
 
